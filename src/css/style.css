@@ -1,0 +1,34 @@
+body {
+  color: rgb(31, 31, 31);
+}
+
+img {
+  width: 105px;
+  height: 105px;
+}
+
+p {
+  margin: 0px;
+}
+
+.header {
+  margin: 50px auto;
+  width: 450px;
+  height: 80px;
+}
+
+.game-field {
+  margin: 50px auto;
+  background-color: gray;
+  border-collapse: collapse;
+}
+
+.cell {
+  width: 110px;
+  height: 110px;
+  border: 2px solid black;
+}
+
+.hidden {
+  display: none;
+}
